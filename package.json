@@ -12,6 +12,10 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tranducduong1994/shopping-product-miniapp.git"
+  },
   "dependencies": {
     "ern-navigation": "1.2.4",
     "react": "17.0.1",
